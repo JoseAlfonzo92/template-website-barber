@@ -458,9 +458,6 @@ body {
 }
 
 
-
-/* galeria */
-
 .gallery {
   padding: 4rem 2rem;
   background-color: var(--dark-grey-color-background);
@@ -527,8 +524,6 @@ body {
   }
 }
 
-
-/* equipo */
 
 .team {
   padding: 4rem 2rem;
@@ -619,8 +614,6 @@ body {
   }
 }
 
-
-/* precios */
 
 .pricing {
   padding: 4rem 2rem;
@@ -988,7 +981,7 @@ body {
   transition: color 0.3s ease;
 }
 
-/* underline animation */
+
 .footer-bottom .developer a::after {
   content: "";
   position: absolute;
