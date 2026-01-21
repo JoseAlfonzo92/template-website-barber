@@ -1,3 +1,11 @@
+@font-face { 
+  font-family: "Oswald"; 
+  src: url("oswald.woff2") format("woff2"); 
+  font-display: swap; 
+  
+  }
+
+
 :root {
   --white-color-text: hsl(0, 0%, 100%);
   --orange-color-text: hsl(25, 90%, 55%);
